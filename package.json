@@ -1,19 +1,19 @@
 {
-  "name": "@muench-dev/n8n-nodes-bluesky",
-  "version": "2.8.2",
+  "name": "n8n-ultimate-nodes-bluesky",
+  "version": "2.9.0",
   "description": "BlueSky API nodes for n8n",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/muench-dev/n8n-nodes-bluesky#readme",
-  "author": {
-    "name": "Christian Münch",
-    "email": "christian@muench.dev"
+	"homepage": "",
+	"author": {
+		"name": "monnierant",
+		"email": "admin@monnier.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/muench-dev/n8n-nodes-bluesky.git"
+    "url": "https://github.com/monnierant/n8n-nodes-bluesky.git"
   },
   "engines": {
     "node": ">=18.10",
