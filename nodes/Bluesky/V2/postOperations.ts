@@ -271,7 +271,7 @@ export async function postOperation(
 				$type: 'app.bsky.embed.images',
 				images: [{
 					alt: image.alt,
-					image: imageBlob,
+					image: imageBlob, // image blob
 					aspectRatio : {
 						width: image.width,
 						height: image.height,
